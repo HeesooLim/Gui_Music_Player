@@ -10,7 +10,7 @@ using System.Windows.Forms;
 using System.IO;
 using Microsoft.VisualBasic;
 
-namespace Assignment_04_Gui
+namespace Gui_Music_Player
 {
     public partial class Form1 : Form
     {

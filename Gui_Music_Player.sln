@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30204.135
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assignment_04_Gui", "Assignment_04_Gui\Assignment_04_Gui.csproj", "{78D4D574-13ED-4915-A1B6-DA28DA92383B}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Gui_Music_Player", "Assignment_04_Gui\Gui_Music_Player.csproj", "{78D4D574-13ED-4915-A1B6-DA28DA92383B}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{EDDB18C8-48C1-4896-B736-7655404AAC47}"
 EndProject

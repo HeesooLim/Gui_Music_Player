@@ -1,4 +1,4 @@
-﻿namespace Assignment_04_Gui
+﻿namespace Gui_Music_Player
 {
     partial class Form1
     {

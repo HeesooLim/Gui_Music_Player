@@ -4,7 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace Assignment_04_Gui
+namespace Gui_Music_Player
 {
     static class Program
     {

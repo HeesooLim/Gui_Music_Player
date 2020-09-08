@@ -8,7 +8,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace Assignment_04_Gui
+namespace Gui_Music_Player
 {
     public partial class Form2 : Form
     {
@@ -43,5 +43,5 @@ namespace Assignment_04_Gui
         {
             lstHistory.Items.Clear();
         }
-    }
-}
+        }
+ }
